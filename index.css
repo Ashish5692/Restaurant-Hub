@@ -47,3 +47,15 @@
     width: 100%;
 }
 
+.filter-btn {
+    margin: 12px;
+    padding: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+
+.filter-btn:hover{
+    background-color: beige;
+}
