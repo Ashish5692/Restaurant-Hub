@@ -17,3 +17,16 @@
 - HTTPs
 - Tree Shaking - remove unused code
 - Different dev and prod bundles
+
+- Default Export/Import
+ export default Component;
+ import Component from 'path';
+
+ - Named Export/Import
+ export const Component;
+ import {Component } from 'path';
+
+ - React Hooks
+ Normal Js Utililty Functions
+ - useState() - superPowerful react variable
+ - useEffect()
