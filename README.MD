@@ -30,3 +30,16 @@
  Normal Js Utililty Functions
  - useState() - superPowerful react variable
  - useEffect()
+
+ # 2 types of Routing
+ - Client Side Routing
+ - Server Side Routing
+
+
+ # Redux Toolkit
+ - Install @reduxjs/toolkit and react-redux
+ - Build our store
+ - Connect our store to our app
+ - Slice (CartSlice)
+ - dispatch(action)
+ - Selector
